@@ -1,0 +1,50 @@
+
+.cont01{
+    display: flex;
+    flex-direction: column;
+    margin: 0% 10% 5% 3%;
+    border: 2px solid #554f4f;
+       }
+.title{
+    font-size: 30px;
+    padding-left: 22%;
+    padding-top: 5%;
+    font-style: italic;
+    font-style: bold;
+    color: yellowgreen;
+}
+
+.names{
+    padding-left: 25%;
+    padding-top: 3%;
+}
+.place{
+    padding-left: 25%;
+    padding-top: 8%;
+}
+.desc{
+ padding-left: 35%;
+ padding-top: 16%;
+ font-size: 25px;
+ font-style: italic;
+ color: yellowgreen;
+}
+.reg{
+    
+    padding-left: 45%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    
+}
+
+.write{
+    padding-left: 25%;
+    padding-top: 2%;
+}
+
+input[type="text"]{
+    width: 60%;
+    border: none;
+    border-bottom: 3px solid rgb(43, 24, 24);
+    padding-top: 30px;
+}
